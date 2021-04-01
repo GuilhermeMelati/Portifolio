@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    text-align: center;
+
+}
+
+.title {
+    font-size: 80px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #1e2022;
+    margin-bottom: 2px;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #1e2022;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    color: #1e2022;
+    margin-bottom: 2px;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #52616b;
+}
+
+.subtitle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    font-weight: 400;
+    color: #52616b;
+    margin-top: 2px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+div.header {
+    background-color: #ffffff;
+}
+
+.programmerImage {
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
+
+.skillImageCode {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skillImageManagement {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profileImage {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    box-shadow: 4px 4px 4px 3px rgba(0, 0, 0, 0.2);
+}
+
+.skill-row {
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+hr {
+    width: 4%;
+    border-style: none;
+    border-top: dotted;
+    border-width: 0.4rem;
+    margin: 5% auto 5% auto;
+}
+
+.bottom-container{
+    background-color: #323232;
+    margin-bottom: 0;
+    margin: 0 20% 0 20%;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
+}
+
+.bottom-container p{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.sendImage {
+    width: 100px;
+    height: 100px;
+    margin: 50px auto 150px auto;
+}
+
+.socialImage {
+    width: 60px;
+    height: 60px;
+    margin: 20px 20px 20px 0px;
+}
